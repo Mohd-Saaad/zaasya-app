@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Test User",
+        "email": "test@example.com",
+        "password_hash": "$2b$12$tc3dhJZ7grsr.TJ5uJ2zZecd/56Llkhu.BTNEj4fY8Td8kqW8Fglq",
+        "role": "user",
+        "is_verified": true,
+        "email_verification_token": "b186e93d-cc61-4a24-b34f-add584d367ee",
+        "email_verified_at": null,
+        "created_at": "2026-02-02 12:25:55.964822+00:00",
+        "last_login": null,
+        "_id": "698097d32f7f352af6748ded"
+    },
+    {
+        "name": "hello",
+        "email": "hello@h.h",
+        "password_hash": "$2b$12$P2xnzMWVGEQbfJkXEvaB7.Y7A0xlK8LttcJYu/QkWse8M6jxokgBm",
+        "role": "user",
+        "is_verified": true,
+        "email_verification_token": "80c0c98c-7bd3-4ab1-8781-e0accb045e87",
+        "email_verified_at": null,
+        "created_at": "2026-02-02 13:07:59.842868+00:00",
+        "last_login": null,
+        "_id": "6980a1af942bf3290ece56d6"
+    },
+    {
+        "name": "saad",
+        "email": "s",
+        "password_hash": "$2b$12$f3DCIWJ75cKlMxjcVOqo8OR17Ug8bq/.KRRX4XdI9HDQ2/A4kXa5S",
+        "role": "user",
+        "is_verified": true,
+        "email_verification_token": "887cae51-d978-4694-af2a-0cdcd6e35423",
+        "email_verified_at": null,
+        "created_at": "2026-02-04 07:13:05.622644+00:00",
+        "last_login": null,
+        "_id": "6982f181644c2814a62fbae9"
+    }
+]

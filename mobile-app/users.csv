@@ -1,0 +1,21 @@
+id,name,email,mobile_number,role,status
+1,John Doe,john.doe@example.com,+1 555-555-5555,Admin,Active
+2,Jane Smith,jane.smith@school.edu,+1 555-123-4567,Teacher,Active
+3,Emily Johnson,emily.j@student.org,+1 555-987-6543,Student,Active
+4,Michael Brown,m.brown@sponsor.com,+1 555-222-3333,Sponsor,Active
+5,Sarah Davis,s.davis@school.edu,+1 555-444-5555,Teacher,Active
+6,Robert Wilson,r.wilson@example.com,+1 555-666-7777,Admin,Inactive
+7,Linda Taylor,linda.t@school.edu,+1 555-888-9999,Teacher,Active
+8,David Martinez,d.martinez@student.org,+1 555-000-1111,Student,Inactive
+9,Barbara Anderson,b.anderson@sponsor.com,+1 555-111-2222,Sponsor,Active
+10,James Thomas,j.thomas@school.edu,+1 555-333-4444,Teacher,Active
+11,Elizabeth Garcia,e.garcia@student.org,+1 555-555-6666,Student,Active
+12,Richard Moore,r.moore@example.com,+1 555-777-8888,Admin,Active
+13,Jennifer Lee,j.lee@school.edu,+1 555-999-0000,Teacher,Inactive
+14,Thomas Jackson,t.jackson@student.org,+1 555-222-1111,Student,Active
+15,Susan White,s.white@sponsor.com,+1 555-444-3333,Sponsor,Inactive
+16,Charles Harris,c.harris@school.edu,+1 555-666-5555,Teacher,Active
+17,Christopher Clark,c.clark@student.org,+1 555-888-7777,Student,Active
+18,Margaret Lewis,m.lewis@example.com,+1 555-000-9999,Admin,Active
+19,Joseph Robinson,j.robinson@school.edu,+1 555-123-1234,Teacher,Active
+20,Karen Walker,k.walker@student.org,+1 555-321-4321,Student,Inactive
